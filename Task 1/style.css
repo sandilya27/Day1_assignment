@@ -1,0 +1,31 @@
+.card{
+    width: 600px;
+    height: 500px;
+    background-color: #6ce298;
+    border-radius: 10px;
+    border:1px solid #6ce298;
+    font-family: sans-serif;
+    padding: 90px 50px;
+    box-sizing: border-box;
+    margin: 20px auto;
+}
+
+.title{
+    font-size: 40px;
+}
+
+.subtitle{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.btn{
+    padding: 12px 50px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 16px;
+    cursor: pointer;
+}
