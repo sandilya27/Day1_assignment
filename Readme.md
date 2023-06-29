@@ -1,5 +1,5 @@
 # Task1
-![task1](./outputSS/task1.png)
+![task1](https://drive.google.com/file/d/1THiXLADLFeLKelsP6wjfrDsfwIZMZMMD/view?usp=drive_link)
 
 # Task2
 ![task2](./outputSS/task2.png)
